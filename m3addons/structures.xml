@@ -25,6 +25,8 @@
 
     Please give credit to this people if you use the xml or the (generated) code in your own scripts.
 
+    my modification:
+    * 2018-7-29 replace unknown4d066bda with uvRatio & uvOffset at REGN section
 -->
 <structures>
     <structure name="Reference">
