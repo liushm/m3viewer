@@ -216,9 +216,9 @@ if __name__ == '__main__':
     # m3file = 'Storm_Hero_DVA_Base.m3'
     # m3file = 'Storm_Hero_Genji_Base.m3'
     # m3file = 'Storm_Hero_Jaina_Base.m3'
-    # m3file = 'Storm_Hero_Junkrat_Base.m3'
+    m3file = 'Storm_Hero_Junkrat_Base.m3'
     # m3file = 'Storm_Hero_Ragnaros_Base.m3'
-    m3file = 'Storm_Hero_Medic_Base.m3'
+    # m3file = 'Storm_Hero_Medic_Base.m3'
 
     if len(sys.argv) == 2:
         m3file = sys.argv[1]
